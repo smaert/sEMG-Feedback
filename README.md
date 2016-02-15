@@ -1,4 +1,4 @@
-# sEMG-Feedback
+# sEMG-Feedback Device
 
 A low-cost surface electromyography feedback device based on <b>Arduino Mega</b> and <b>Advancer Technologies Muscle Sensor v3</b>.
 
